@@ -6,12 +6,6 @@
 <div>
   <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500" height="320"/>
 </div>
-
-### Random Dev Quote
-
-<p align="left">
- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="randomquote" />
- </p>
   
 ### Languages and Tools:
  <p align="left">
@@ -167,3 +161,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
   </a>
 </p>
+
+
+### Random Dev Quote
+
+<p align="center">
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="randomquote" />
+ </p>
