@@ -1,5 +1,4 @@
-  [<img align="left" alt="Techrate | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-  <img src="https://komarev.com/ghpvc/?username=luckycstar&label=Profile%20views&color=0e75b6&style=flat" alt="wsemen" />  
+<img src="https://komarev.com/ghpvc/?username=wsemen&label=Profile%20views&color=0e75b6&style=flat" alt="wsemen" />  
 
   - 📫 How to reach me **wsemen9@gmail.com** 
 
